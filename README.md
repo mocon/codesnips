@@ -1,23 +1,20 @@
-# GumGum Design System Code Snippet Converter
+# Code Snippet Generator
 
-This is a script to convert GumGum Design System component markup into autocomplete text snippets for Sublime Text 3, Vim (Ultisnips) & PhpStorm Live Templates.
-
-Autocomplete is triggered with "gds-", such as "gds-badge".
+This is a script to convert any component markup into autocomplete code snippets for Sublime Text 3, Vim (Ultisnips) & PhpStorm Live Templates.
 
 ## Installation
 
-```
-npm install
+```shell
+$ npm install
 ```
 
 ## Usage
 
 To convert the components' JSON, stored in `/gdsComponents.json`, run:
 
+```shell
+$ node converter.js
 ```
-node converter.js
-```
-__Note:__ All output (from the `output/` directories) is .gitignored
 
 ## Installing generated code snippets
 
