@@ -1,0 +1,10 @@
+<template name="gds-badge" value="&lt;span class=&quot;gds-badge $1$ $2$ $3$ $4$&quot;&gt;$5$&lt;/span&gt;" description="GDS Badge" toReformat="false" toShortenFQNames="true">
+	<variable name="1" expression="&quot;gds-badge--success&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="2" expression="&quot;gds-badge--info&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="3" expression="&quot;gds-badge--warning&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="4" expression="&quot;gds-badge--danger&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="5" expression="&quot;42&quot;" defaultValue="" alwaysStopAt="true" />
+	<context>
+		<option name="HTML" value="true" />
+	</context>
+</template>

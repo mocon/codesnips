@@ -1,0 +1,7 @@
+<template name="gds-corner-content" value="&lt;div class=&quot;gds-corner-content gds-corner-content--right gds-corner-content--shown $1$&quot;&gt;&#13;	&lt;div class=&quot;gds-corner-content__header&quot;&gt;&#13;		&lt;h4 class=&quot;gds-corner-content__title&quot;&gt;Corner content title&lt;/h4&gt;&#13;		&lt;div class=&quot;gds-corner-content__controls&quot;&gt;&#13;			&lt;button class=&quot;gds-corner-content__button&quot; gg-corner-content-switch&gt;&lt;i class=&quot;fa fa-arrows-h&quot;&gt;&lt;/i&gt;&lt;/button&gt;&#13;			&lt;button class=&quot;gds-corner-content__button&quot; gg-corner-content&gt;&lt;i class=&quot;fa fa-expand&quot;&gt;&lt;/i&gt;&lt;/button&gt;&#13;		&lt;/div&gt;&#13;	&lt;/div&gt;&#13;	&lt;div class=&quot;gds-corner-content__block&quot;&gt;&#13;		...&#13;	&lt;/div&gt;&#13;&lt;/div&gt;" description="GDS Corner-Content" toReformat="false" toShortenFQNames="true">
+	<variable name="1" expression="&quot;gds-corner-content--left&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="2" expression="&quot;&quot;" defaultValue="" alwaysStopAt="true" />
+	<context>
+		<option name="HTML" value="true" />
+	</context>
+</template>

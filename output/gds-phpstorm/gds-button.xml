@@ -1,0 +1,18 @@
+<template name="gds-button" value="&lt;button class=&quot;gds-button $1$ $2$ $3$ $4$ $5$ $6$ $7$ $8$ $9$ $10$ $11$ $12$&quot;&gt;$13$&lt;/button&gt;" description="GDS Button" toReformat="false" toShortenFQNames="true">
+	<variable name="1" expression="&quot;gds-button--xs&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="2" expression="&quot;gds-button--sm&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="3" expression="&quot;gds-button--lg&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="4" expression="&quot;gds-button--default&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="5" expression="&quot;gds-button--primary&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="6" expression="&quot;gds-button--secondary&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="7" expression="&quot;gds-button--success&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="8" expression="&quot;gds-button--info&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="9" expression="&quot;gds-button--warning&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="10" expression="&quot;gds-button--danger&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="11" expression="&quot;gds-button--link&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="12" expression="&quot;gds-button--block&quot;" defaultValue="" alwaysStopAt="true" />
+	<variable name="13" expression="&quot;Button Text&quot;" defaultValue="" alwaysStopAt="true" />
+	<context>
+		<option name="HTML" value="true" />
+	</context>
+</template>

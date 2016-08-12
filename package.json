@@ -1,0 +1,18 @@
+{
+  "name": "design-system-snippet-converter",
+  "version": "1.0.0",
+  "description": "This is a script to convert GumGum Design System component markup into autocomplete text snippets for Sublime Text 3, Vim (Ultisnips) & PhpStorm Live Templates.",
+  "dependencies": {
+    "html-entities": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:gumgum/ds-autocomplete.git"
+  },
+  "author": "myles@gumgum.com",
+  "license": "MIT"
+}

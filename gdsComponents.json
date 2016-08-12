@@ -1,0 +1,57 @@
+[
+    {
+        "name": "GDS Badge",
+        "tabTrigger": "gds-badge",
+        "outerElement": "span",
+        "defaultTextContent": "42",
+        "defaultClasses": [
+            "gds-badge"
+        ],
+        "optionalClasses": [
+            "gds-badge--success",
+            "gds-badge--info",
+            "gds-badge--warning",
+            "gds-badge--danger"
+        ],
+        "innerHtml": ""
+    },
+    {
+        "name": "GDS Button",
+        "tabTrigger": "gds-button",
+        "outerElement": "button",
+        "defaultTextContent": "Button Text",
+        "defaultClasses": [
+            "gds-button"
+        ],
+        "optionalClasses": [
+            "gds-button--xs",
+            "gds-button--sm",
+            "gds-button--lg",
+            "gds-button--default",
+            "gds-button--primary",
+            "gds-button--secondary",
+            "gds-button--success",
+            "gds-button--info",
+            "gds-button--warning",
+            "gds-button--danger",
+            "gds-button--link",
+            "gds-button--block"
+        ],
+        "innerHtml": ""
+    },
+    {
+        "name": "GDS Corner-Content",
+        "tabTrigger": "gds-corner-content",
+        "outerElement": "div",
+        "defaultTextContent": "",
+        "defaultClasses": [
+            "gds-corner-content",
+            "gds-corner-content--right",
+            "gds-corner-content--shown"
+        ],
+        "optionalClasses": [
+            "gds-corner-content--left"
+        ],
+        "innerHtml": "\n\t<div class=\"gds-corner-content__header\">\n\t\t<h4 class=\"gds-corner-content__title\">Corner content title</h4>\n\t\t<div class=\"gds-corner-content__controls\">\n\t\t\t<button class=\"gds-corner-content__button\" gg-corner-content-switch><i class=\"fa fa-arrows-h\"></i></button>\n\t\t\t<button class=\"gds-corner-content__button\" gg-corner-content><i class=\"fa fa-expand\"></i></button>\n\t\t</div>\n\t</div>\n\t<div class=\"gds-corner-content__block\">\n\t\t...\n\t</div>\n"
+    }
+]

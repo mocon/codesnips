@@ -1,0 +1,4 @@
+<!-- GDS Badge -->
+<snippet><content><![CDATA[
+<span class="gds-badge ${1:gds-badge--success} ${2:gds-badge--info} ${3:gds-badge--warning} ${4:gds-badge--danger}">${5:42}</span>
+]]></content><tabTrigger>gds-badge</tabTrigger><scope>text.html</scope></snippet>
